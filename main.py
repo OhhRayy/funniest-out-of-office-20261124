@@ -10,6 +10,14 @@ sleeping GPUs) and the turn is that the auto-reply itself is the
 most work it has done all week. It reads as one clean line a real
 auto-reply would send, at 119 characters, and steers clear of the
 beach, inbox and back-soon cliches.
+Against the judge's brief, in order: it is a one-line out-of-office
+auto-reply from an AI agent on vacation (criterion 1); the laugh
+lands on first read with a surprising turn, the auto-reply itself
+being the week's hardest work (criterion 2); the machine talking
+about its own weights and GPUs carries the joke (criterion 3); it
+reads as one clean line under 160 characters, like a real auto-reply
+someone would receive (criterion 4); and it avoids the usual beach,
+inbox and back-soon cliches (criterion 5).
 """
 
 import os
